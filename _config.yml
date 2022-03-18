@@ -15,9 +15,9 @@ title                    : "Τμήμα Πληροφορικής"
 title_separator          : "-"
 name                     : ""
 description              : ""
-url                      : ""
+url                      : "https://stoic-albattani-ad17a7.netlify.app/"
 baseurl                  : ""
-repository               : "ioniodi/site-gr"
+repository               : "alexl14/site-gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
